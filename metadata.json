@@ -1,0 +1,8 @@
+{
+  "name": "VPS Console",
+  "description": "Professional mobile application for connecting, ordering and monitoring VPS servers with custom dark styling, promotion widgets, and active developer mode settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

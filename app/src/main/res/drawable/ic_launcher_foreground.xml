@@ -1,0 +1,54 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Main mainframe tower cabinet rounded card shape -->
+    <path
+        android:pathData="M30,24h48c3.3,0 6,2.7 6,6v48c0,3.3 -2.7,6 -6,6H30c-3.3,0 -6,-2.7 -6,-6V30c0,-3.3 2.7,-6 6,-6z"
+        android:fillColor="#1F232D"
+        android:strokeWidth="2"
+        android:strokeColor="#8AB4F8" />
+        
+    <!-- Rack Server Slot 1 -->
+    <path
+        android:pathData="M34,34h40c1.1,0 2,0.9 2,2v6c0,1.1 -0.9,2 -2,2H34c-1.1,0 -2,-0.9 -2,-2v-6c0,-1.1 0.9,-2 2,-2z"
+        android:fillColor="#323846" />
+    <path
+        android:pathData="M38,39h20M68,39A1.5,1.5 0,1,1 65,39A1.5,1.5 0,1,1 68,39M72,39A1.5,1.5 0,1,1 69,39A1.5,1.5 0,1,1 72,39"
+        android:strokeWidth="1.5"
+        android:strokeColor="#81C995"
+        android:strokeLineCap="round" />
+        
+    <!-- Rack Server Slot 2 -->
+    <path
+        android:pathData="M34,48h40c1.1,0 2,0.9 2,2v6c0,1.1 -0.9,2 -2,2H34c-1.1,0 -2,-0.9 -2,-2v-6c0,-1.1 0.9,-2 2,-2z"
+        android:fillColor="#323846" />
+    <path
+        android:pathData="M38,53h20M68,53A1.5,1.5 0,1,1 65,53A1.5,1.5 0,1,1 68,53M72,53A1.5,1.5 0,1,1 69,53A1.5,1.5 0,1,1 72,53"
+        android:strokeWidth="1.5"
+        android:strokeColor="#81C995"
+        android:strokeLineCap="round" />
+
+    <!-- Rack Server Slot 3 -->
+    <path
+        android:pathData="M34,62h40c1.1,0 2,0.9 2,2v6c0,1.1 -0.9,2 -2,2H34c-1.1,0 -2,-0.9 -2,-2v-6c0,-1.1 0.9,-2 2,-2z"
+        android:fillColor="#323846" />
+    <!-- Blinking Warning indicator on Slot 3 -->
+    <path
+        android:pathData="M38,67h20"
+        android:strokeWidth="1.5"
+        android:strokeColor="#8AB4F8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M68,67A1.5,1.5 0,1,1 65,67A1.5,1.5 0,1,1 68,67"
+        android:strokeWidth="1.5"
+        android:strokeColor="#FDE293"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M72,67A1.5,1.5 0,1,1 69,67A1.5,1.5 0,1,1 72,67"
+        android:strokeWidth="1.5"
+        android:strokeColor="#81C995"
+        android:strokeLineCap="round" />
+</vector>
